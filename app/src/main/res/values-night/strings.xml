@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hw3</string>
+    <string name="mid">middle_night</string>
+    <string name="mid_brk">middle_broken_night</string>
+</resources>
